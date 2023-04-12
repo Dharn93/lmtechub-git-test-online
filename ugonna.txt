@@ -1,0 +1,13 @@
+Here contains the comprehensive list of the command i have been able to learn so far
+> Git init used to instruct your machine to run files in Git
+> git status
+git add file name
+git commit -m "commit message"
+git checkout 
+ls
+git log
+touch
+git mkdir
+git rm
+git push origin
+etc
